@@ -1,0 +1,18 @@
+        ========== MINI STATEMENT ==========
+        Date           : 07-June-2025 06:25:20 AM
+        Hello          : meera
+        Amount Debited : $0.00
+        Amount Credited: $0.00
+        Balance        : $1900.00
+        ====================================
+
+        ========== TRANSACTIONS ==========
+        Type    | Amount   | Date                      | Balance
+        --------|----------|---------------------------|---------
+        Debit   | $300.00  | 07-June-2025 06:24:34 AM | $700.00
+        Credit  | $600.00  | 07-June-2025 06:24:55 AM | $1300.00
+        Credit  | $600.00  | 07-June-2025 06:25:00 AM | $1900.00
+
+        ===== Thank You! Visit again =====
+        ==================================
+        
