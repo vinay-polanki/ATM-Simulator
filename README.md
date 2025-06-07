@@ -14,4 +14,3 @@ It’s designed to help beginners understand how Python works with user input, c
 	•	Full transaction log with date, time, and updated balance
 	•	Option to save the mini statement as a .txt file
 	•	Easy-to-read and clean terminal interface# ATM-Simulator
- * he
